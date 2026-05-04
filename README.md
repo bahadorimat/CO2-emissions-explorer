@@ -5,7 +5,7 @@ picture of how CO2 emissions have actually changed since 1990 — not just for
 Germany but across some of the world's biggest emitters. The numbers are one 
 thing, but seeing them visualized makes the differences a lot more striking.
 
-Data comes from (https://github.com/owid/co2-data), which keeps a 
+Data comes from [Our World in Data](https://github.com/owid/co2-data), which keeps a 
 well-maintainedopen dataset on global emissions.
 
 ---
